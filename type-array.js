@@ -9,3 +9,5 @@ console.table(arrayObjects)
 
 arrayObjects.push({valor: 3, valor2: 13/11/2024, valor3: 'três'})
 
+
+

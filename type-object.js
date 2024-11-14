@@ -15,3 +15,4 @@ const primeiroObjeto = {
 }
 
 console.log(primeiroObjeto)
+

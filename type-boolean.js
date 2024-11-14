@@ -20,3 +20,4 @@ if(value1) console.log('verdadeiro');
 
 //operador ternário 
 const resultado = value1 ? 'verdadeiro' : falso 
+

@@ -5,3 +5,4 @@ function semArrow(){
 const comArrow = () => {
     console.log('Sem Arrow Function');
 }
+
